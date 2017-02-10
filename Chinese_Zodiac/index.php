@@ -33,29 +33,29 @@
 			}
 			h1{
 				margin-top: -115px;
-        margin-left: -15px;
+        			margin-left: -15px;
 
 				padding-left: 0px;
 
 				display: inline-block;
 			}
-      h4{
-        margin-top: -115px;
-        margin-left: 850px;
+      			h4{
+      				margin-top: -115px;
+        			margin-left: 850px;
 
-        padding-left: 0px;
+        			padding-left: 0px;
 
-        display: inline-block;
-      }
-      h5{
-        height: 200px;
-        margin-top: 430px;
-        margin-left: -30px;
+        			display: inline-block;
+     			 }
+   			h5{
+        			height: 200px;
+        			margin-top: 430px;
+        			margin-left: -30px;
 
-        padding-left: 10px;
+        			padding-left: 10px;
 
-        display: inline-block;
-      }
+        			display: inline-block;
+     			 }
 
 
 			header {
@@ -69,13 +69,13 @@
 				padding-right: 11px;
 				padding-bottom: 0px;
 				margin-bottom: 0px;
-        margin-left: 0px;
+        			margin-left: 0px;
 				margin: 10px 10px 0px 10px;
-        border: 1px solid black;
+        			border: 1px solid black;
 				}
 
 
-			a {
+		       	a {
 				margin:0;
 				padding:10px;
 				text-align:center;
@@ -95,56 +95,51 @@
 
 				}
 
-				nav{
-					height: 33px;
-					width: 99.75%;
-					text-align: center;
-					padding-top: 11px;
-					border: 1px solid black;
-					margin-left: 10px;
-					margin-right: 10px;
-				  background-color: #e5838e;
+			nav{
+				height: 33px;
+				width: 99.75%;
+				text-align: center;
+				padding-top: 11px;
+				border: 1px solid black;
+				margin-left: 10px;
+				margin-right: 10px;
+	            		background-color: #e5838e;
 				}
-				aside{
-					margin-left: 10px;
-					height: 650px;
-					width: 255px;
-					border: 1px solid black;
-					background-color: #e1e1e1;
-					text-decoration: none;
-					padding-left: -20px;
+			aside{
+				margin-left: 10px;
+				height: 650px;
+				width: 255px;
+				border: 1px solid black;
+				background-color: #e1e1e1;
+				text-decoration: none;
+				padding-left: -20px;
 				}
-				ul li{
-					text-decoration: none;
-					color: black;
-					list-style-type: none;
-					padding: 14px 0;
+			ul li{
+				text-decoration: none;
+				color: black;
+				list-style-type: none;
+				padding: 14px 0;
 				}
-				ul li:nth-child{
-
-				}
-
-				footer {
-				   position: absolute;
-				   bottom: 0;
-				   top:891px;
-           left: 1px;
-				   height:30px;
-				   width: 100%;
-				   padding-top: 10px;
-				   background-color:red;
-				   border: 1px solid black;
-				   border-radius: 0px 0px 8px 8px;
-
-				   color: black;
-				   text-align: center;
-				   background-color:#e5838e;
+			ul li:nth-child{
 
 				}
 
-				
+			footer {
+			        position: absolute;
+			        bottom: 0;
+		         	top:891px;
+         			left: 1px;
+				height:30px;
+				width: 100%;
+				padding-top: 10px;
+		                background-color:red;
+				border: 1px solid black;
+				border-radius: 0px 0px 8px 8px;
+				color: black;
+				text-align: center;
+				background-color:#e5838e;
 
-
+				}
 
 	</style>
 	</head>
